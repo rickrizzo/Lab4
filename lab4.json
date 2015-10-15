@@ -1,0 +1,41 @@
+{
+    "songs": [
+        {
+            "trackName": "Can't Stop",
+            "artist": "Red Hot Chili Peppers",
+            "album": "By The Way",
+            "coverImage": "http://ecx.images-amazon.com/images/I/81RM%2BS0I9wL._SL1425_.jpg",
+            "releaseDate": 2002,
+            "website": "http://redhotchilipeppers.com/",
+            "genre": "Rock"
+
+        },
+        {
+            "trackName": "Quiet Things That No One Ever Knows",
+            "artist": "Brand New",
+            "album": "Deja Entendu",
+            "coverImage": "http://www.shopradiocast.com/product_images/p/884/brand__86349_zoom.jpg",
+            "releaseDate": 2003,
+            "website": "http://www.fightoffyourdemons.com/",
+            "genre": "Alternative"
+        },
+        {
+            "trackName": "Gimme Shelter",
+            "artist": "Rolling Stones",
+            "album": "Let It Bleed",
+            "coverImage": "https://upload.wikimedia.org/wikipedia/en/c/c0/LetitbleedRS.jpg",
+            "releaseDate": 1969,
+            "website": "http://www.rollingstones.com/",
+            "genre": "Rock"
+        },
+        {
+            "trackName": "Hotline Bling",
+            "artist": "Drake",
+            "album": "Hotline Bling - Single",
+            "coverImage": "http://assets.audiomack.com/40ozvan/31a7d457c37145d4b7608de60c1f2f4f.jpeg",
+            "releaseDate": 2015,
+            "website": "http://www.drakeofficial.com/",
+            "genre": "Hip-Hop/Rap"
+        }
+    ]
+}

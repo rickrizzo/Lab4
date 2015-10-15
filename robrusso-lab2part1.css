@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+.title {
+  font-weight: bold;
+  height: auto;
+}
+section ul {
+  float: left;
+}
+section li {
+  list-style: none;
+  margin: 0.2em 3%;
+  height: 100px;
+}
+img {
+  height: 100px;
+}
